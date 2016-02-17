@@ -1,0 +1,7 @@
+REDIRECT/MILINDATM/m.asp
+WIDTH 140
+HIGHT 60
+BORDER 2
+*
+CR.jpg
+www.myjmtm.com

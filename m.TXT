@@ -1,0 +1,15 @@
+<html><head><title>ATM</title></head>
+<body Background="B2.jpg">
+<CENTER><hr color="orange" ><hr color="orange" ><FONT COLOR="WHITE" size="10"> KENDRIA VIDYALAYA <br>BANK of INDIA</FONT><hr color="orange" ><hr color="orange" ><br>
+<hr color="red" widt=""><marquee><img src="images (3).jpg" hight="22" width="33" alt="MILIND"></A></MARQUEE><hr color="orange" ></FONT>
+<br><br><br><FONT COLOR="BLUE" SIZE="8">WELCOME</FONT>
+<br><br><br><br><FONT COLOR="##f#f#" SIZE="2">Press to  </FONT><FONT COLOR="f##f##" SIZE="81"><A HREF="P1.asp">START</A></FONT>
+
+<P STYLE="MARGIN-LIFT:566">
+<%
+Set CR=Server.CreateObject("MSWC.AdRotator")
+Response.Write(CR.GetAdvertisement("/MILINDATM/Rotator.txt"))
+%>
+
+</CENTER>
+</BODY></HTML>

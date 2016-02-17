@@ -1,0 +1,16 @@
+REDIRECT/MILINDATM/P2.asp
+WIDTH 140
+HIGHT 60
+BORDER 2
+*
+CA.jpg
+http://www.myjmtm.com
+70
+BK.jpg
+http://www.myjmtm2.com
+30
+
+{<%
+set ad=Server.CreateObject("MSWC.AdRotator")
+Response.Write(ad.GetAdvertisement("adrotator.txt"))
+%>}

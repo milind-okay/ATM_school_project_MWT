@@ -1,0 +1,49 @@
+<html><head><title>ATM</title>
+
+
+</head>
+<body Background="B2.jpg"><IMG SRC="MM.bmp" NAME="H" WIDTH="68" height="68" BORDER="0" ALT="logo" align="left">
+<CENTER><hr color="orange" ><FONT COLOR="WHITE" size="10"> KENDRIA VIDYALAYA <br>BANK of INDIA</FONT><hr color="orange" ><br>
+<hr color="orange" >
+<br><br>
+
+if (not(isnumeric(Request.Form("t1")))) then
+msgbox"error! you must enter in numeric form"
+end if 
+
+
+
+if (not(isnumeric(Request.Form("t2")))) then
+msgbox"error! you must enter in numeric form"
+end if 
+
+<%
+dim I,I2,I3
+
+response.buffer
+I1=Request.Form("t2")
+I=Request.Form("t1")
+I3=Request.Form("t3")
+if Isnumeric(I)  then
+response.write"welcome"
+else
+response.Redirect("INnopin.asp")
+end if %>
+
+<%if Isnumeric(I1)  then
+response.write"welcome"
+else
+response.Redirect("INcardno.asp")
+end if %>
+
+<%if Isnumeric(I2)  then
+response.Redirect("PINCA.asp")
+else
+response.Redirect("INcardno.asp")
+end if %>
+
+
+select trancation
+
+</CENTER>
+</BODY></HTML>

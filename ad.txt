@@ -1,0 +1,18 @@
+REDIRECT /MILINDATM/m.asp 
+WIDTH 624 
+HEIGHT 84 
+BORDER 1
+*
+MILIND'S.jpg
+www.MILINDATM1.com
+MILINDATM shine
+10 
+
+MBANK.jpg 
+www.MILINDATM.com
+MILINDATM hade
+5 
+MK.jpg
+www.MILINDATM1.com
+MILINDATM shine
+10 

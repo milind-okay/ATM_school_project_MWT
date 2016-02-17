@@ -1,0 +1,17 @@
+How ATM Machine Processing works?
+
+ATM Processing is similar to credit card processing, except with ATM Machines the processing center uses ATM networks instead of credit networks. To begin with, we will have to program or re-programmed your ATM machine with a TID (terminal ID number) assigned to your ATM at location . This is the number that identifies your ATM machine on our ATM processing system.
+
+ATM transaction processing can be done via standard telephone line or via the internet. ATM Depot can process your ATM transactions via a standard telephone line using a toll free number or if your ATM is so equipped, via an Ethernet connection using your internet service. Once the method of connection is determined, and your ATM has been setup and programmed to use our ATM processing your ATM is ready to be loaded. After Cash is loaded into your ATM a customer would enter their ATM card, input their PIN (personal identification number) and the authorization process begins.
+
+Your ATM “TID” along with other identifying information lets the cardholder’s bank know that the transaction is taking place on your ATM. Now your ATM can connect to the ATM networks through our processing center and then to the cardholder’s bank. If there are sufficient funds in the ATM cardholders account for the withdrawal request, the transaction will be completed.
+
+Once transactions are approved the ATM receives the authorization and dispenses the cash requested. Your ATM can also be used if someone just wants to check their account balance or transfer funds before or after withdrawing cash. There is no surcharge fee charged by your ATM for non-cash withdrawal transactions.
+
+What is an ATM network? If you take your ATM card out of your wallet now, you will see network logos (also known as bugs) on the back: logos How ATM Machines Work
+
+You might notice that the Cirrus bug looks similar to the Master Card logo. That’s because MasterCard is the ATM processing network of Master Card. The Plus network is the ATM processing side of Visa. Plus and Cirrus are the National ATM networks. All the other ATM logos “bugs” are regional networks.
+
+As the owner or operator of an ATM you would set the surcharge fee, ATM Depot would process the transactions, and then put the funds withdrawn from your ATM back into your bank account the next business day with the cut off being 3pm PT each business day. Meaning any cash taken out of your ATM on Monday before 3pm PT is back in your bank account Tuesday. Anything taken out of the ATM after 3pm PT Monday to 3pm PT on Tuesday is put into your account on Wednesday, and so on.
+
+Your ATM Surcharge is deposited separately for accounting purposes the second week following the end of each month. January surcharge earnings are deposited the end of the second week of February and so on. All funds are delivered using the US Banking system.
